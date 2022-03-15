@@ -1,0 +1,16 @@
+{
+  "name": "manapp",
+  "version": "1.0.0",
+  "description": "its a simple social app ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "karthick",
+  "license": "ISC",
+  "dependencies": {
+    "date-format": "^4.0.5",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
